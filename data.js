@@ -21,7 +21,7 @@ async function generateAIQuestions() {
     =============================== */
 
     const apiKey =
-        "AIzaSyBcBKVPDrNoKbPKHEG3aAzS7dv7nBlF5gY";
+        "AIzaSyA7XWDRpTo3cSfwOUJ3favubTOz2gLlvq8";
 
     /* =============================== */
 
